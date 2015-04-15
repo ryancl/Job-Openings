@@ -11,8 +11,8 @@ Some of the things our team is responsible for and has worked on in the past....
 Additionally, we regularly have the opportunity to speak and contribute at open source
 conferences like OpenStack and the OVS conference
 
-* [Managing Open vSwitch across a large heterogenous fleet @ Openstack Conf](https://www.youtube.com/watch?v=iSpNGwI4bo0)
-* [Managing Open vSwitch across a Large Heterogeneous Fleet @ OVS Conf](https://www.youtube.com/watch?v=feyCYsNpz-k)
+* [Managing Open vSwitch Across a Large Heterogeneous Fleet @ Openstack Conf](https://www.youtube.com/watch?v=iSpNGwI4bo0)
+* [Managing Open vSwitch Across a Large Heterogeneous Fleet @ OVS Conf](https://www.youtube.com/watch?v=feyCYsNpz-k)
 * [Neutron at Scale @ Openstack Conf](https://www.youtube.com/watch?v=74BR9fCQIAA)
 
 
