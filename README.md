@@ -59,8 +59,7 @@ issue if there's a bug!
 |**Engineer**|![beardymcbeards](https://avatars1.githubusercontent.com/u/1914641?v=3&s=20) [beardymcbeards](https://github.com/beardymcbeards)|
 |**Developer**|![evanscottgray](https://avatars3.githubusercontent.com/u/1891697?v=3&s=20)  [evanscottgray](https://github.com/evanscottgray)|
 |**Developer**|![jkoelker](https://avatars3.githubusercontent.com/u/75854?v=3&s=20) [jkoelker](https://github.com/jkoelker)|
-<<<<<<< HEAD
-|**Engineer**|![***REMOVED***](***REMOVED***) [***REMOVED***](https://github.com/***REMOVED***)|
+
 =======
 >>>>>>> cc8b67b1a5e34a79e27ecbc63a847e46bcdf3103
 |**Manager**|![ryancl](https://avatars3.githubusercontent.com/u/2342045?v=3&s=20) [ryancl](https://github.com/ryancl)|
