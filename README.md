@@ -59,10 +59,7 @@ issue if there's a bug!
 |**Manager**|![ryancl](https://avatars3.githubusercontent.com/u/2342045?v=3&s=20) [ryancl](https://github.com/ryancl)|
 |**Engineer**|![sushilsuresh](https://avatars0.githubusercontent.com/u/1730258?v=3&s=20) [sushilsuresh](https://github.com/sushilsuresh)|
 |**Developer**|![tr3buchet](https://avatars3.githubusercontent.com/u/344580?v=3&s=20) [tr3buchet](https://github.com/tr3buchet)|
-Take a gander!
 
-* [some thing](https://www.somelink.com)
-
-
+---
 
 <img src="http://i.imgur.com/koapmwg.png" />
