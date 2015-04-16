@@ -48,7 +48,17 @@ If you see something odd, you can also submit a pull request to fix, or file an
 issue if there's a bug!
 
 ## Who is the "Cloud Networks Team"?
-
+|Role|Github|
+|---    |---    |
+|**Developer**|![alanquillin](https://avatars0.githubusercontent.com/u/1398816?v=3&s=20) [alanquillin](https://github.com/alanquillin)|
+|**Engineer** |![andyhky](https://avatars2.githubusercontent.com/u/366092?v=3&s=20) [andyhky](https://github.com/andyhky)|
+|**Engineer**|![beardymcbeards](https://avatars1.githubusercontent.com/u/1914641?v=3&s=20) [beardymcbeards](https://github.com/beardymcbeards)|
+|**Developer**|![evanscottgray](https://avatars3.githubusercontent.com/u/1891697?v=3&s=20)  [evanscottgray](https://github.com/evanscottgray)|
+|**Developer**|![jkoelker](https://avatars3.githubusercontent.com/u/75854?v=3&s=20) [jkoelker](https://github.com/jkoelker)|
+|**Engineer**|![***REMOVED***](***REMOVED***) [***REMOVED***](https://github.com/***REMOVED***)|
+|**Manager**|![ryancl](https://avatars3.githubusercontent.com/u/2342045?v=3&s=20) [ryancl](https://github.com/ryancl)|
+|**Engineer**|![sushilsuresh](https://avatars0.githubusercontent.com/u/1730258?v=3&s=20) [sushilsuresh](https://github.com/sushilsuresh)|
+|**Developer**|![tr3buchet](https://avatars3.githubusercontent.com/u/344580?v=3&s=20) [tr3buchet](https://github.com/tr3buchet)|
 Take a gander!
 
 * [some thing](https://www.somelink.com)
