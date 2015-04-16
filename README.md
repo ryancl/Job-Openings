@@ -9,7 +9,12 @@ customers, enabling them to create meaningful on-demand and custom solutions.
 Some of the things our team is responsible for and has worked on in the past....
 
 Additionally, we regularly have the opportunity to speak and contribute at open source
-conferences like OpenStack and the OVS conference <--- provide links to relevant talks.
+conferences like OpenStack and the OVS conference
+
+* [Managing Open vSwitch Across a Large Heterogeneous Fleet @ Openstack Conf](https://www.youtube.com/watch?v=iSpNGwI4bo0)
+* [Managing Open vSwitch Across a Large Heterogeneous Fleet @ OVS Conf](https://www.youtube.com/watch?v=feyCYsNpz-k)
+* [Neutron at Scale @ Openstack Conf](https://www.youtube.com/watch?v=74BR9fCQIAA)
+
 
 If you believe that a challenge such as this is for you then we want to talk to you! 
 Please take a look at the repository for open jobs, we would love to hear from
