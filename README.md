@@ -8,8 +8,12 @@ customers, enabling them to create meaningful on-demand and custom solutions.
 
 Some of the things our team is responsible for and has worked on in the past....
 
+* [Cloud Networks](http://www.rackspace.com/cloud/networks/)
+* [Security Groups](http://www.rackspace.com/blog/secure-your-cloud-server-deployment-with-neutron-security-groups/)
+* [OpenStack Neutron](https://wiki.openstack.org/wiki/Neutron)
+
 Additionally, we regularly have the opportunity to speak and contribute at open source
-conferences like OpenStack and the OVS conference
+conferences like OpenStack and the OVS conference.
 
 * [Managing Open vSwitch Across a Large Heterogeneous Fleet @ Openstack Conf](https://www.youtube.com/watch?v=iSpNGwI4bo0)
 * [Managing Open vSwitch Across a Large Heterogeneous Fleet @ OVS Conf](https://www.youtube.com/watch?v=feyCYsNpz-k)
@@ -55,7 +59,10 @@ issue if there's a bug!
 |**Engineer**|![beardymcbeards](https://avatars1.githubusercontent.com/u/1914641?v=3&s=20) [beardymcbeards](https://github.com/beardymcbeards)|
 |**Developer**|![evanscottgray](https://avatars3.githubusercontent.com/u/1891697?v=3&s=20)  [evanscottgray](https://github.com/evanscottgray)|
 |**Developer**|![jkoelker](https://avatars3.githubusercontent.com/u/75854?v=3&s=20) [jkoelker](https://github.com/jkoelker)|
+<<<<<<< HEAD
 |**Engineer**|![kremlinkev](https://avatars2.githubusercontent.com/u/1131351?v=3&s=20) [kremlinkev](https://github.com/kremlinkev)|
+=======
+>>>>>>> cc8b67b1a5e34a79e27ecbc63a847e46bcdf3103
 |**Manager**|![ryancl](https://avatars3.githubusercontent.com/u/2342045?v=3&s=20) [ryancl](https://github.com/ryancl)|
 |**Engineer**|![sushilsuresh](https://avatars0.githubusercontent.com/u/1730258?v=3&s=20) [sushilsuresh](https://github.com/sushilsuresh)|
 |**Developer**|![tr3buchet](https://avatars3.githubusercontent.com/u/344580?v=3&s=20) [tr3buchet](https://github.com/tr3buchet)|
