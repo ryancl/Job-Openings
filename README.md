@@ -1,10 +1,10 @@
 # Open Jobs for the Rackspace Cloud Networks Team
 
 The Rackspace Cloud Networks Team is looking for a range of skills and roles.
-Our team is responsible for leveraging open and innovative networking 
-technologies to build and maintain a reliable, performant, and supportable SDN 
+Our team is responsible for leveraging open and innovative networking
+technologies to build and maintain a reliable, performant, and supportable SDN
 stack. Additionally we create tools to empower our fellow Rackers to serve our
-customers, enabling them to create meaningful on-demand and custom solutions. 
+customers, enabling them to create meaningful on-demand and custom solutions.
 
 Some of the things our team is responsible for and has worked on in the past....
 
@@ -16,7 +16,7 @@ conferences like OpenStack and the OVS conference
 * [Neutron at Scale @ Openstack Conf](https://www.youtube.com/watch?v=74BR9fCQIAA)
 
 
-If you believe that a challenge such as this is for you then we want to talk to you! 
+If you believe that a challenge such as this is for you then we want to talk to you!
 Please take a look at the repository for open jobs, we would love to hear from
 you if you are interested and up to the challenge.
 
@@ -28,6 +28,8 @@ and growing. Of course, if you're senior - we expect you to mentor developers
 earlier in their careers**
 
 * [Python dev position](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/python-dev.md)
+* [Python dev position](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/python-dev-2.md)
+  * `There are two python jobs that are on the same team. Ideally one senior one and a more junior one`
 
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
