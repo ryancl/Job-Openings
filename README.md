@@ -28,13 +28,11 @@ you if you are interested and up to the challenge.
 
 **Don't be daunted by skills / requirements: if you even know 70% of what we've
 outlined, you're welcome to apply. Our team thrives off of mentoring one another
-and growing. Of course, if you're senior - we expect you to mentor developers
+and growing. Of course, if you're senior - we expect you to mentor those
 earlier in their careers**
 
-* [Python dev position](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/python-dev.md)
-* [Python dev position](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/python-dev-2.md)
-  * `There are two python jobs that are on the same team. Ideally one senior one and a more junior one. However, there is room for flexibility here.`
-* [ Linux Systems Engineer](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/linux-systems-engineer.md)
+* [Manager](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/manager.md)
+
 
 Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
