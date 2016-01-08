@@ -31,7 +31,7 @@ outlined, you're welcome to apply. Our team thrives off of mentoring one another
 and growing. Of course, if you're senior - we expect you to mentor those
 earlier in their careers**
 
-* [Manager](https://github.com/ryancl/rackspace_cloudnetworks_jobs/blob/master/manager.md)
+* No Current Openings
 
 
 Rackspace was recently recognized by the Anita Borg institute as one of the
